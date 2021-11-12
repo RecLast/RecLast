@@ -28,7 +28,7 @@ I am a game developer living in Turkey. A game designer who loves games and prod
 
 - ⚡ Fun fact **Games, Anime, Film, Series**
 
-## 👯 Communities
+## 👯 Jobs
 - Wahrenheit Forums (2010-2014)
 - Oyun Kayıt Game Platform (2014-2015)
 - Merlinin Kazanı Game Platform (2015-2016)
