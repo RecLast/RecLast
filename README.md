@@ -75,10 +75,11 @@ Talk to me about
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reclast" alt="reclast" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reclast&show_icons=true&locale=en&layout=compact" alt="reclast" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=reclast&show_icons=true&locale=en" alt="reclast" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reclast&" alt="reclast" /></p>
+<a href="https://github.com/RecLast/RecLast">
+ <img alt="UmitEski Github Stats" src="https://github-readme-stats.vercel.app/api/?username=reclast&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</a>
+<a href="https://github.com/RecLast/RecLast">
+ <img alt="UmitEski's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reclast&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+ </a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=reclast&label=Profile%20views&color=0e75b6&style=flat" alt="reclast" /> </p>
