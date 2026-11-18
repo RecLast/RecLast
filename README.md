@@ -1,85 +1,223 @@
-<h1 align="left">👋 Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">
-
-  [![Twitter Follow](https://img.shields.io/twitter/follow/reclasttv?color=blue&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/RecLastTV) [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/RecLast ) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/UmitEskiUE/) 
- [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reclastnet@gmail.com)
-
-  <br> I'm Umit Eski 😎,  
-  
-I am a game developer living in Turkey. A game designer who loves games and produces both their content and develops games 🎮. </h3>
-
-- 💬 Ask me about <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/> **A Game Designer who lives in Turkey and is a game lover. I graduated from Computer Programming department 🏫. I worked mainly on Web Software. I have been producing game content for a long time on Youtube and Twitch 📺. Why not be a game developer when I love games so much? This is exactly why I started Game Designer and Game Developer 👨‍💻. I am trying to improve myself in this field and produce better projects. Hope you see my great ideas on gaming platforms ^^**
-
-- 🔭 I’m currently working on [Project X](#)
-
-- 🌱 I’m currently learning **Datebase, Unity Project**
-
-- 👯 I’m looking to collaborate on [Unity Game Project](#)
-
-- 🤝 I’m looking for help with [Unity Project](#)
-
-- 👨‍💻 All of my projects are available at [https://www.umiteski.com.tr/](https://www.umiteski.com.tr/)
-
-- 📝 I regularly write articles on [https://blog.umiteski.com.tr/](https://blog.umiteski.com.tr/)
-
-- 📫 How to reach me **by_reclast@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/umiteskiue/](https://www.linkedin.com/in/umiteskiue/)
-
-- ⚡ Fun fact **Games, Anime, Film, Series**
-
-## 👯 Jobs
-- Wahrenheit Forums (2010-2014)
-- Oyun Kayıt Game Platform (2014-2015)
-- Merlinin Kazanı Game Platform (2015-2016)
-- Fatalitech Game Studio (2019-2020)
-- Codexcited Game Studio (2020-2021)
-- Uras Io  Tecnologies(2020-2021)
-- Umit Eski Game Studio (2020 - ♾)
-
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **HTML, CSS, Bootstrap**
-- Backend development using **Mysql, Node, SQL**
-- Creating big and small projects using **Computer Vision (C#, C++, Blueprint)**
-- Making for **Relational Database Management Systems**
-- Robust full-stack system design implementation
-- Solving Data structure and algorithm questions in **Unity and Unreal Engine**
-
-## 🤔 Hello World!! 
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@umiteski)
-- 🎯 Check out my Instagram page (300+ followers): [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/umiteskiue/) 
-<br><br>
-
-## ❤️ Connect with me
-<p align="left">
-<a href="https://twitter.com/reclasttv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reclasttv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umiteskiue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umiteskiue" height="30" width="40" /></a>
-<a href="https://fb.com/umiteskiue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umiteskiue" height="30" width="40" /></a>
-<a href="https://instagram.com/umiteskiue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umiteskiue" height="30" width="40" /></a>
-<a href="https://www.behance.net/reclast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="reclast" height="30" width="40" /></a>
-<a href="https://medium.com/@umiteski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umiteski" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/reclasttvofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="reclasttvofficial" height="30" width="40" /></a>
-<a href="https://discord.gg/nWGY7EZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nWGY7EZ" height="30" width="40" /></a>
+<!-- ───────────────────────── HEADER ───────────────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:0f3d22,100:50AE61&height=220&section=header&text=%C3%9Cmit%20Eski&fontSize=64&fontColor=70DC83&fontAlignY=36&desc=Full-Stack%20Web%20%2F%20Mobile%20Developer%20%E2%80%A2%20Founder%20of%20UmitEski%20Studio&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Ümit Eski — header"/>
 </p>
-<br><br>
 
-## 🔧 Languages and Tools
+<p align="center">
+  <a href="https://umiteski.com.tr/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=70DC83&center=true&vCenter=true&width=700&height=50&lines=%3E+Hi%2C+I%27m+%C3%9Cmit+Eski+%F0%9F%91%8B;%3E+Full-Stack+Web+%26+Mobile+Developer;%3E+Founder+of+UmitEski+Studio;%3E+Laravel+%2B+Inertia+%2B+React+%C2%B7+Flutter;%3E+Building+AI-powered+products+%26+agents" alt="Typing intro"/>
+  </a>
+</p>
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://umiteski.com.tr/"><img src="https://img.shields.io/badge/Website-umiteski.com.tr-50AE61?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/umiteskiue/"><img src="https://img.shields.io/badge/LinkedIn-umiteskiue-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/RecLastTV"><img src="https://img.shields.io/badge/X-@RecLastTV-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://blog.umiteski.com.tr/"><img src="https://img.shields.io/badge/Blog-blog.umiteski.com.tr-F59E0B?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/></a>
+  <a href="https://umiteski.com.tr/contact"><img src="https://img.shields.io/badge/Contact-Get%20in%20touch-70DC83?style=for-the-badge&logo=maildotru&logoColor=0d1117" alt="Contact"/></a>
+</p>
 
-<br><br>
+---
 
-## 📈 Github Stats
+### 👋 About me
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reclast" alt="reclast" /></a> </p>
+```php
+<?php
 
-<p align="center"><a href="https://github.com/RecLast/RecLast">
- <img alt="UmitEski Github Stats" src="https://github-readme-stats.vercel.app/api/?username=reclast&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
-<a href="https://github.com/RecLast/RecLast">
- <img alt="UmitEski's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reclast&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
- </a></p>
+final class UmitEski extends Developer
+{
+    public string $role     = 'Full-Stack Web & Mobile Developer';
+    public string $company  = 'Founder @ UmitEski Studio';
+    public string $location = 'Ankara / Zonguldak, Türkiye';
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=reclast&label=Profile%20views&color=0e75b6&style=flat" alt="reclast" /> </p>
+    public array $builds = [
+        'web'    => ['Laravel', 'Inertia', 'React', 'TypeScript', 'Tailwind CSS'],
+        'mobile' => ['Flutter', 'Dart'],
+        'ai'     => [
+            'Cloudflare Workers AI', 'LLM integrations', 'Stable Diffusion / Flux',
+            'AI video generation', 'AI agents & automation bots', 'Prompt engineering',
+        ],
+        'infra'  => ['Docker', 'Coolify', 'Hetzner', 'MySQL', 'Redis'],
+    ];
+
+    public array $background = [
+        'Game design & development (Unity, Unreal Engine)',
+        'Video editing & content creation',
+    ];
+
+    public array $tools = [
+        'Cursor', 'VS Code', 'Grok Bot', 'Antigravity', 'Gemini',
+        'Photoshop', 'Premiere Pro', 'After Effects', 'ArtCraft',
+        'Laravel Herd', 'OBS', 'Notion',
+    ];
+
+    public array $workflow = [
+        'Vibe-coding with Cursor, Grok Bot & Gemini',
+        'Ship fast, keep it clean',
+    ];
+
+    public function philosophy(): string
+    {
+        return 'Modular, clean and fast — and I write my own admin panels.';
+    }
+}
+```
+
+- 🚀 I build **web products, mobile apps and AI-powered tools** end to end — from backend and admin panel to UI and deployment.
+- 🧩 Currently focused on **RecLast Panel**, my own Laravel-based CMS with a theme system, and on **AI products** like **RecAI**.
+- 🎮 Long background in **game development** and **video content** — which is why I care a lot about UX, visuals and performance.
+- 💼 Open to freelance projects: websites, custom software, mobile apps, AI integrations. → [Get a quote](https://umiteski.com.tr/get-quote)
+
+---
+
+### 🌟 Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://umiteski.com.tr/products/reclast-panel-laravel-landing-page"><img src="assets/reclast-panel.jpg" width="100%" alt="RecLast Panel"/></a>
+      <h3>🧱 RecLast Panel</h3>
+      <p>A fast, secure, <b>WordPress-like admin panel built from scratch on Laravel</b>. Enter a company name and sector and a ready theme is generated; the theme system lets a completely different site be built just by writing a theme. Ships with its own licensing &amp; update system.</p>
+      <p><b>Ready editions:</b> <a href="https://umiteski.com.tr/products/reclast-panel-laravel-landing-page">Landing</a> · <a href="https://umiteski.com.tr/products/reclast-panel-laravel-corporate-site">Corporate</a> · <a href="https://umiteski.com.tr/products/panel-laravel-freelance-agency-system">Agency</a> — <i>more editions on the way.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+        <img src="https://img.shields.io/badge/Inertia-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      </p>
+      <a href="https://umiteski.com.tr/products"><img src="https://img.shields.io/badge/Explore%20editions-449452?style=for-the-badge" alt="Explore editions"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.umiteski.recai"><img src="assets/recai.jpg" width="100%" alt="RecAI"/></a>
+      <h3>🎨 RecAI</h3>
+      <p>A <b>free AI image generator</b> for Android that turns text into images — no sign-up required. Built end to end by me, from the serverless AI backend to the mobile UI.</p>
+      <ul>
+        <li>Flutter mobile app</li>
+        <li>Stable Diffusion models on Cloudflare Workers AI</li>
+        <li>Free, no account needed</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+        <img src="https://img.shields.io/badge/Workers%20AI-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers AI"/>
+      </p>
+      <a href="https://play.google.com/store/apps/details?id=com.umiteski.recai"><img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a>
+      <a href="https://umiteski.com.tr/products/recai-ai-image-generator"><img src="https://img.shields.io/badge/Details-449452?style=for-the-badge" alt="RecAI details"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://store.steampowered.com/app/1447730/Town_Fall_Zombie/"><img src="assets/town-fall-zombie.jpg" width="100%" alt="Town Fall Zombie"/></a>
+      <h3>🧟 Town Fall Zombie</h3>
+      <p>An <b>open-world zombie simulation game</b> on Steam, published by <b>UmitEski Studio</b>. Roam the town, drive, fight — or turn the whole city into zombies and wreak havoc. Started with an indie team and finished solo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Open%20World-0E1128?style=flat-square&logo=steam&logoColor=white" alt="Open world"/>
+        <img src="https://img.shields.io/badge/Game%20Design-449452?style=flat-square" alt="Game design"/>
+        <img src="https://img.shields.io/badge/Indie-F59E0B?style=flat-square" alt="Indie"/>
+      </p>
+      <a href="https://store.steampowered.com/app/1447730/Town_Fall_Zombie/"><img src="https://img.shields.io/badge/View%20on-Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="View on Steam"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://umiteski.com.tr/services/automation-bots"><img src="assets/automation-bots.jpg" width="100%" alt="Automation Bots"/></a>
+      <h3>🤖 Automation Bots</h3>
+      <p><b>AI-powered bots and agents</b> that take repetitive work off the table: content pipelines, mail handling, daily operations and site monitoring — each bot owns its job and reports back.</p>
+      <ul>
+        <li>LLM-driven content &amp; mail workflows</li>
+        <li>Scheduled ops, backups and uptime / SSL monitoring</li>
+        <li>n8n / Make workflows and custom scripts</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Agents-449452?style=flat-square" alt="AI agents"/>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      </p>
+      <a href="https://umiteski.com.tr/services/automation-bots"><img src="https://img.shields.io/badge/Learn%20more-449452?style=for-the-badge" alt="Learn more"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧠 AI & automation
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare%20Workers%20AI-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers AI"/>
+  <img src="https://img.shields.io/badge/LLM%20Integrations-449452?style=for-the-badge" alt="LLM integrations"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Stable%20Diffusion%20%2F%20Flux-111827?style=for-the-badge" alt="Stable Diffusion / Flux"/>
+  <img src="https://img.shields.io/badge/AI%20Video%20Generation-DB2777?style=for-the-badge" alt="AI video generation"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-0F3D22?style=for-the-badge" alt="AI agents"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=for-the-badge" alt="Prompt engineering"/>
+  <img src="https://img.shields.io/badge/Vibe--coding-22C55E?style=for-the-badge&logo=cursor&logoColor=white" alt="Vibe-coding"/>
+</p>
+
+- 🤖 **AI-powered products** — RecAI (text-to-image) and an open-source [Workers AI API gateway](https://github.com/RecLast/aireclast) for text, image and code generation.
+- 🔗 **LLM integrations** into Laravel & React apps: content generation, assistants, smart admin features.
+- 🎬 **AI image & video generation** for content and marketing.
+- 🧩 **Agents & automation** — multi-bot setups that handle content, mail and daily ops on their own.
+- ⚡ **Vibe-coding** with Cursor, Grok Bot, Gemini and Antigravity to ship faster without losing code quality.
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center"><b>Web & Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,tailwind,html,css,bootstrap,vite,nodejs&perline=11" alt="Web stack"/>
+</p>
+<p align="center"><b>Mobile, Desktop & AI</b><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,electron,python,cloudflare,workers&perline=11" alt="Mobile, desktop and AI stack"/>
+</p>
+<p align="center"><b>Data, DevOps & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,docker,nginx,linux,git,github,vscode&perline=11" alt="Data and DevOps"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=flat-square&logo=coolify&logoColor=white" alt="Coolify"/>
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+</p>
+<p align="center"><b>Game Dev & Design</b><br/>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,blender,ps,ai,xd,pr,ae&perline=11" alt="Game dev and design"/>
+</p>
+
+---
+
+### 📈 GitHub activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RecLast&show_icons=true&hide_border=true&bg_color=0d1117&title_color=70DC83&icon_color=50AE61&text_color=c9d1d9&ring_color=50AE61&rank_icon=github" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=RecLast&hide_border=true&background=0d1117&ring=50AE61&fire=70DC83&currStreakLabel=70DC83&stroke=1f6f35&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RecLast&hide_border=true&bg_color=0d1117&color=70DC83&line=50AE61&point=70DC83&area=true&area_color=50AE61" alt="Contribution graph"/>
+</p>
+
+<!-- Snake (enable after .github/workflows/snake.yml has run once and created the "output" branch):
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RecLast/RecLast/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/RecLast/RecLast/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+  </picture>
+</p>
+-->
+
+---
+
+### 💼 Experience
+
+Freelance developer & founder of **UmitEski Studio** · previously Android developer (URAS Gamification Platform), co-founder & game designer (Codexcited), game designer (Fatalitech), video editor (DijitalHoca).
+Full history → [LinkedIn](https://www.linkedin.com/in/umiteskiue/)
+
+### 📺 Content
+
+<p>
+  <a href="https://www.youtube.com/@RecLastTVOfficial"><img src="https://img.shields.io/badge/YouTube-RecLastTV-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube RecLastTV"/></a>
+  <a href="https://www.youtube.com/@UmitEskiUE"><img src="https://img.shields.io/badge/YouTube-UmitEskiUE-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube UmitEskiUE"/></a>
+  <a href="https://www.twitch.tv/RecLastTV"><img src="https://img.shields.io/badge/Twitch-RecLastTV-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch"/></a>
+  <a href="https://medium.com/@umiteski"><img src="https://img.shields.io/badge/Medium-@umiteski-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.instagram.com/umiteskiue/"><img src="https://img.shields.io/badge/Instagram-umiteskiue-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:50AE61,45:0f3d22,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+</p>
